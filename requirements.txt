@@ -1,0 +1,6 @@
+psutil>=5.9
+pymem>=1.0
+pygame>=2.0
+pywin32>=306
+requests>=2.0
+numpy>=1.21.0
